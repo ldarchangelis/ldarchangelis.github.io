@@ -1,0 +1,58 @@
+/* CSS Document */
+
+body { 
+	background:#F0CCE8;
+	
+}
+
+h1 { 
+	font-family: Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', serif; 
+	font-size: 26pt; 
+	font-style: italic; 
+	text-align: left;
+}
+
+h2 {font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+		font-size:14px;
+		text-align:left;
+		font-style:normal;
+		color:#4C1C1D;
+		margin-left:1in;
+		margin-right:1in;
+}
+		
+	
+	p#one {
+		font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+		font-size:14px;
+		text-align:center;
+		font-style:normal;
+		color:#4C1C1D;
+		margin-left:1in;
+		margin-right:1in;
+		
+		
+		}
+a  {color: #5F52B0;
+	outline-style:hidden;
+ 	padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+	outline-color:#FDFDFD;
+	background-color: #FFFFFF;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	
+}
+a#two {color:#5F52B0;
+	outline-style:hidden;
+ 	padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+	outline-color:#FDFDFD;
+	background-color: #FFFFFF;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	
+
+}
